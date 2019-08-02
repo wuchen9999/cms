@@ -1,3 +1,9 @@
+var fileVM =  new Vue({
+    el:'#fileVM',
+    data : function () {
+        ajax
+    }
+});
 var app = new Vue({
     el: '#app',
     data: {
